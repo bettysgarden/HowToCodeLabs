@@ -1,0 +1,15 @@
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/bin/Debug/net6.0/HardcodingProblematic
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/bin/Debug/net6.0/HardcodingProblematic.deps.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/bin/Debug/net6.0/HardcodingProblematic.runtimeconfig.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/bin/Debug/net6.0/HardcodingProblematic.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/bin/Debug/net6.0/HardcodingProblematic.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.csproj.AssemblyReference.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.AssemblyInfoInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.AssemblyInfo.cs
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.csproj.CoreCompileInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/refint/HardcodingProblematic.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/HardcodingProblematic.genruntimeconfig.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingProblematic/obj/Debug/net6.0/ref/HardcodingProblematic.dll

@@ -1,0 +1,15 @@
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/bin/Debug/net6.0/HardcodingRight
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/bin/Debug/net6.0/HardcodingRight.deps.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/bin/Debug/net6.0/HardcodingRight.runtimeconfig.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/bin/Debug/net6.0/HardcodingRight.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/bin/Debug/net6.0/HardcodingRight.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.csproj.AssemblyReference.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.AssemblyInfoInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.AssemblyInfo.cs
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.csproj.CoreCompileInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/refint/HardcodingRight.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/HardcodingRight.genruntimeconfig.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/HardcodingRight/obj/Debug/net6.0/ref/HardcodingRight.dll
