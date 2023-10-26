@@ -4,8 +4,9 @@ class Program
 {
     static void Main()
     {
-        Library library = new Library();
-        CatalogPrinter catalogPrinter = new CatalogPrinter();
+        ILibrary library = new Library();
+        IBookCatalogPrinter catalogPrinter = new BookCatalogPrinter();
+        IBookCheckoutManager checkoutManager = new BookCheckoutManager();
 
         Book book1 = new Book
         {
@@ -16,8 +17,9 @@ class Program
         };
 
         library.AddBook(book1);
-        library.CheckOutBook(book1);
+        catalogPrinter.PrintCatalog(library.GetAllBooks());
 
-        catalogPrinter.PrintCatalog(library.Books);
+        checkoutManager.CheckOutBook(book1);
+        checkoutManager.ReturnBook(book1);
     }
 }

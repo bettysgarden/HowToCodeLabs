@@ -7,18 +7,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        Library library = new Library();
+        ILibrary library = new Library();
 
-        Book book1 = new Book("The Great Gatsby", "F. Scott Fitzgerald");
+        IBook book1 = new Book("Зима тревоги нашей", "Джон Стейнбек");
         library.AddBook(book1);
 
-        Book book2 = new Book("To Kill a Mockingbird", "Harper Lee");
+        IBook book2 = new Book("Убить пересмешника", "Харпер Ли");
         library.AddBook(book2);
 
-        List<Book> books = library.GetBooks();
+        List<IBook> books = library.GetBooks();
 
         Console.WriteLine("Books in the library:");
-        foreach (Book book in books)
+        foreach (IBook book in books)
         {
             Console.WriteLine($"Title: {book.Title}, Author: {book.Author}");
         }

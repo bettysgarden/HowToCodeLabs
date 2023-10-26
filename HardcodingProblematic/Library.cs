@@ -1,25 +1,19 @@
 namespace HardcodingProblematic;
-
-// Проблема 1: Жесткость (Rigidity)
-// Добавление новых операций с книгами требует изменения класса Library
 public class Library
 {
-    private List<Book> books;
+    private List<Book> books = new();
 
-    public Library()
-    {
-        books = new List<Book>();
-    }
+    // Плохая читабельность
 
-    // Проблема 3: Плохая читабельность (Low Readability)
-    // "Add" - не является информативным именем для операции
+    // Жесткость
+    // использование классов напрямую без интерфейсов
     public void Add(Book book)
     {
         books.Add(book);
     }
 
-    // Проблема 3: Плохая читабельность (Low Readability)
-    // "Remove" - не является информативным именем для операции
+    // Жесткость
+    // использование классов напрямую без интерфейсов
     public void Remove(Book book)
     {
         books.Remove(book);

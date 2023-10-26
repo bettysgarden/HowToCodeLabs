@@ -1,16 +1,15 @@
 namespace HardcodingRight;
 
-public class Library
+public class Library : ILibrary
 {
-    private List<Book> books;
+    private List<IBook> books;
 
     public Library()
     {
-        books = new List<Book>();
+        books = new List<IBook>();
     }
 
-// Метод для добавления книги в библиотеку
-    public void AddBook(Book book)
+    public void AddBook(IBook book)
     {
         if (book != null)
         {
@@ -22,8 +21,7 @@ public class Library
         }
     }
 
-// Метод для удаления книги из библиотеки
-    public void RemoveBook(Book book)
+    public void RemoveBook(IBook book)
     {
         if (books.Contains(book))
         {
@@ -35,9 +33,8 @@ public class Library
         }
     }
 
-// Метод для получения списка всех книг в библиотеке
-    public List<Book> GetBooks()
+    public List<IBook> GetBooks()
     {
-        return new List<Book>(books);
+        return new List<IBook>(books);
     }
 }

@@ -1,6 +1,6 @@
 namespace HardcodingRight;
 
-public class Book
+public class Book : IBook
 {
     public string Title { get; }
     public string Author { get; }

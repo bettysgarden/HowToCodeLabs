@@ -8,10 +8,10 @@ class Program
     {
         Library library = new Library();
 
-        Book book1 = new Book("The Great Gatsby", "F. Scott Fitzgerald");
+        Book book1 = new Book("Зима тревоги нашей", "Джон Стейнбек");
         library.Add(book1);
 
-        Book book2 = new Book("To Kill a Mockingbird", "Harper Lee");
+        Book book2 = new Book("Убить пересмешника", "Харпер Ли");
         library.Add(book2);
 
         List<Book> books = library.GetBooks();
