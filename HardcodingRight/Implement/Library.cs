@@ -33,8 +33,18 @@ public class Library : ILibrary
         }
     }
 
-    public List<IBook> GetBooks()
+    public List<Book> GetBooks()
     {
-        return new List<IBook>(books);
+        return new List<Book>(books);
+    }
+
+    public void SetBookAvailability(Book book, bool available)
+    {
+        book.SetAvailability(available);
+    }
+
+    public bool IsBookAvailable(Book book)
+    {
+        return book.IsAvailable();
     }
 }
