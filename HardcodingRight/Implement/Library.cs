@@ -7,11 +7,11 @@ public class Library : ILibrary
 
     public Library()
     {
-        books = new List<IBook>();
-        bookAvailability = new Dictionary<IBook, bool>();
+        books = new List<IItem>();
+        bookAvailability = new Dictionary<IItem, bool>();
     }
 
-    public void AddBook(IBook book)
+    public void AddBook(IItem book)
     {
         if (book != null)
         {
@@ -24,7 +24,7 @@ public class Library : ILibrary
         }
     }
 
-    public void SetBookAvailability(IBook book, bool available)
+    public void SetBookAvailability(IItem book, bool available)
     {
         if (bookAvailability.ContainsKey(book))
         {
@@ -36,7 +36,7 @@ public class Library : ILibrary
         }
     }
 
-    public bool IsBookAvailable(IBook book)
+    public bool IsBookAvailable(IItem book)
     {
         if (bookAvailability.ContainsKey(book))
         {
@@ -50,6 +50,6 @@ public class Library : ILibrary
 
     public List<IBook> GetBooks()
     {
-        return new List<IBook>(books);
+        return new List<IItem>(books);
     }
 }
