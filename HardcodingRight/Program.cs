@@ -15,12 +15,21 @@ class Program
         IBook book2 = new Book("Убить пересмешника", "Харпер Ли");
         library.AddBook(book2);
 
+        library.SetBookAvailability(book1, false); // Книгу 1 сделали недоступной через библиотеку
+        library.SetBookAvailability(book2, true);  // Книгу 2 сделали доступной через библиотеку
+
+        bool isAvailable = library.IsBookAvailable(book1);
+        Console.WriteLine("Книга 1 доступнаe: " + isAvailable);
+
+        isAvailable = library.IsBookAvailable(book2);
+        Console.WriteLine("Книга 2 доступна: " + isAvailable);
+
         List<IBook> books = library.GetBooks();
 
-        Console.WriteLine("Books in the library:");
+        Console.WriteLine("Книги в библиотеке:");
         foreach (IBook book in books)
         {
-            Console.WriteLine($"Title: {book.Title}, Author: {book.Author}");
+            Console.WriteLine($"Название: {book.Title}, Автор: {book.Author}");
         }
     }
 }
