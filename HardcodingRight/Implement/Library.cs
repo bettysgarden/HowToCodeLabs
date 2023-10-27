@@ -2,11 +2,13 @@ namespace HardcodingRight;
 
 public class Library : ILibrary
 {
-    private List<IBook> books;
+    private List<IItem> books;
+    private Dictionary<IItem, bool> bookAvailability;
 
     public Library()
     {
         books = new List<IBook>();
+        bookAvailability = new Dictionary<IBook, bool>();
     }
 
     public void AddBook(IBook book)
@@ -14,6 +16,7 @@ public class Library : ILibrary
         if (book != null)
         {
             books.Add(book);
+            bookAvailability[book] = true; // По умолчанию книга доступна
         }
         else
         {
@@ -21,11 +24,11 @@ public class Library : ILibrary
         }
     }
 
-    public void RemoveBook(IBook book)
+    public void SetBookAvailability(IBook book, bool available)
     {
-        if (books.Contains(book))
+        if (bookAvailability.ContainsKey(book))
         {
-            books.Remove(book);
+            bookAvailability[book] = available;
         }
         else
         {
@@ -33,18 +36,20 @@ public class Library : ILibrary
         }
     }
 
-    public List<Book> GetBooks()
+    public bool IsBookAvailable(IBook book)
     {
-        return new List<Book>(books);
+        if (bookAvailability.ContainsKey(book))
+        {
+            return bookAvailability[book];
+        }
+        else
+        {
+            throw new ArgumentException("Книга не найдена в библиотеке");
+        }
     }
 
-    public void SetBookAvailability(Book book, bool available)
+    public List<IBook> GetBooks()
     {
-        book.SetAvailability(available);
-    }
-
-    public bool IsBookAvailable(Book book)
-    {
-        return book.IsAvailable();
+        return new List<IBook>(books);
     }
 }
