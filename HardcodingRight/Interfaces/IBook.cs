@@ -1,7 +1,9 @@
 namespace HardcodingRight;
 
-public interface IBook
+public interface IItem
 {
     string Title { get; }
     string Author { get; }
+    void Display();
+
 }
