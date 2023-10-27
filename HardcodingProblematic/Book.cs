@@ -10,18 +10,4 @@ public class Book
         Title = title;
         Author = author;
     }
-
-    // Ненужная повторяемость 
-    // дублирование информации о книге
-    public string GetTitle()
-    {
-        return Title;
-    }
-
-    // Ненужная повторяемость 
-    // дублирование информации о книге
-    public string GetAuthor()
-    {
-        return Author;
-    }
 }
