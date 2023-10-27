@@ -1,6 +1,6 @@
 namespace HardcodingRight;
 
-public class Book : IBook
+public class Book : IItem
 {
     public string Title { get; }
     public string Author { get; }
@@ -9,5 +9,10 @@ public class Book : IBook
     {
         Title = title;
         Author = author;
+    }
+        
+    public void Display()
+    {
+        Console.WriteLine($"Title: {Title}, Author: {Author}");
     }
 }
