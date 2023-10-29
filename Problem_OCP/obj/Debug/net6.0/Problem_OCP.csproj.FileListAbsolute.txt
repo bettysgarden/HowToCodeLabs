@@ -1,0 +1,15 @@
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/bin/Debug/net6.0/Problem_OCP
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/bin/Debug/net6.0/Problem_OCP.deps.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/bin/Debug/net6.0/Problem_OCP.runtimeconfig.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/bin/Debug/net6.0/Problem_OCP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/bin/Debug/net6.0/Problem_OCP.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.csproj.AssemblyReference.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.AssemblyInfoInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.AssemblyInfo.cs
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.csproj.CoreCompileInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/refint/Problem_OCP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/Problem_OCP.genruntimeconfig.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_OCP/obj/Debug/net6.0/ref/Problem_OCP.dll

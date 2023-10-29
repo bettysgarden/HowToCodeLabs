@@ -1,0 +1,15 @@
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/bin/Debug/net6.0/LSP
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/bin/Debug/net6.0/LSP.deps.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/bin/Debug/net6.0/LSP.runtimeconfig.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/bin/Debug/net6.0/LSP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/bin/Debug/net6.0/LSP.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.csproj.AssemblyReference.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.AssemblyInfoInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.AssemblyInfo.cs
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.csproj.CoreCompileInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/refint/LSP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/LSP.genruntimeconfig.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/LSP/obj/Debug/net6.0/ref/LSP.dll

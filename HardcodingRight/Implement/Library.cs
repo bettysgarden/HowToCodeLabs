@@ -2,14 +2,8 @@ namespace HardcodingRight;
 
 public class Library : ILibrary
 {
-    private List<IItem> books;
-    private Dictionary<IItem, bool> bookAvailability;
-
-    public Library()
-    {
-        books = new List<IItem>();
-        bookAvailability = new Dictionary<IItem, bool>();
-    }
+    private List<IItem> books = new();
+    private Dictionary<IItem, bool> bookAvailability = new();
 
     public void AddBook(IItem book)
     {
@@ -22,6 +16,14 @@ public class Library : ILibrary
         {
             throw new ArgumentNullException("Попытка добавить нулевую книгу в библиотеку");
         }
+    }
+
+    public void RemoveBook(IItem book)
+    {
+        if (books.Contains(book))
+        {
+            books.Remove(book);
+        }    
     }
 
     public void SetBookAvailability(IItem book, bool available)
@@ -48,7 +50,7 @@ public class Library : ILibrary
         }
     }
 
-    public List<IBook> GetBooks()
+    public List<IItem> GetBooks()
     {
         return new List<IItem>(books);
     }

@@ -1,0 +1,15 @@
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/bin/Debug/net6.0/Problem_SRP
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/bin/Debug/net6.0/Problem_SRP.deps.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/bin/Debug/net6.0/Problem_SRP.runtimeconfig.json
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/bin/Debug/net6.0/Problem_SRP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/bin/Debug/net6.0/Problem_SRP.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.csproj.AssemblyReference.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.AssemblyInfoInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.AssemblyInfo.cs
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.csproj.CoreCompileInputs.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/refint/Problem_SRP.dll
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.pdb
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/Problem_SRP.genruntimeconfig.cache
+/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Problem_SRP/obj/Debug/net6.0/ref/Problem_SRP.dll

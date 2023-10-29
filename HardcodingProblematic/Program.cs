@@ -17,7 +17,8 @@ class Program
         book2.AddToLibrary(book2);
 
 
- bool checkAvailability = true;
+        // Ненужная сложность: Передача логических параметров (типа bool) в ту или иную функцию
+        bool checkAvailability = true;
         if (checkAvailability)
         {
             bool isAvailable = CheckAvailabilityWithConfusion(library, book1);
@@ -34,5 +35,10 @@ class Program
         {
             Console.WriteLine($"Title: {book.Title}, Author: {book.Author}");
         }
+    }
+
+    public static bool CheckAvailabilityWithConfusion(Library library, Book book)
+    {
+        return library.IsBookAvailable(book, true, false, true);
     }
 }
