@@ -1,3 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
+class Program
+{
+    static void Main(string[] args)
+    {
+        Reader reader = new Reader();
+        
+        // Создаём экземпляр аудиокниги
+        IReadable audioBook = new AudioBook();
 
-Console.WriteLine("Hello, World!");
+        // Передаём экземпляр аудиокниги функции, ожидая чтения книги
+        
+				// замена объекта Book на AudioBook не ведёт к изменению ожидаемого поведения программы
+				reader.ReadBook(audioBook);
+
+        Console.ReadLine();
+    }
+}
