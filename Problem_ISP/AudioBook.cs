@@ -1,7 +1,7 @@
 // Класс для аудиокниги
-public class AudioBook : IReadable
+public class AudioBook : Book
 {
-    public string Read()
+    public override string Read()
     {
         return "Проигрывание аудиокниги";
     }
