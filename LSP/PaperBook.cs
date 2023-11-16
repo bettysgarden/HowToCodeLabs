@@ -1,12 +1,10 @@
 namespace LSP;
 
-// Класс, представляющий бумажную книгу
-public class PaperBook : IBook
+// Базовый класс для книги в библиотеке
+public class Book : IReadable
 {
-    public string Title { get; set; }
-
-    public void Read()
+    public virtual string Read()
     {
-        Console.WriteLine("Чтение бумажной книги: " + Title);
+        return "Чтение книги";
     }
 }
