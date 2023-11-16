@@ -1,3 +1,4 @@
+
 class Program
 {
     static void Main(string[] args)
@@ -5,12 +6,13 @@ class Program
         Reader reader = new Reader();
         
         // Создаём экземпляр аудиокниги
-        IReadable audioBook = new AudioBook();
+        Book audioBook = new AudioBook();
 
         // Передаём экземпляр аудиокниги функции, ожидая чтения книги
-        
-				// замена объекта Book на AudioBook не ведёт к изменению ожидаемого поведения программы
-				reader.ReadBook(audioBook);
+        // Наследующий класс должен дополнять, а не замещать поведение базового класса.
+				// при переопределении мы изменили поведение исходного класса
+				// кого куда нельзя подставить?
+				reader .ReadBook(audioBook);
 
         Console.ReadLine();
     }
