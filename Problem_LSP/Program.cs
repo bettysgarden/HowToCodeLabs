@@ -4,20 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Создаем экземпляр бумажной книги
-        Book paperBook = new PaperBook();
-        paperBook.Title = "Война и мир";
-
-        // Создаем экземпляр аудиокниги
-        Book audiobook = new Audiobook();
-        audiobook.Title = "Алиса в Стране Чудес";
-
         Reader reader = new Reader();
+        
+        // Создаём экземпляр аудиокниги
+        Book audioBook = new AudioBook();
 
-        // Передаем бумажную книгу читателю
-        reader.ReadBook(paperBook);
+        // Передаём экземпляр аудиокниги функции, ожидая чтения книги
+        // Наследующий класс должен дополнять, а не замещать поведение базового класса.
+				// при переопределении мы изменили поведение исходного класса
+				// кого куда нельзя подставить?
+				reader .ReadBook(audioBook);
 
-        // Передаем аудиокнигу читателю
-        reader.ReadBook(audiobook); // Ошибка: Проигрывание аудиокниги, но выводится неверное название "Война и мир"
+        Console.ReadLine();
     }
 }
