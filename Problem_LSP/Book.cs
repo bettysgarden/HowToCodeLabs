@@ -1,9 +1,10 @@
 namespace Problem_LSP;
 
-// Абстрактный класс, представляющий книгу в библиотеке
-public abstract class Book
+// Базовый класс для книги в библиотеке
+public class Book
 {
-    public string Title { get; set; }
-
-    public abstract void Read();
+    public virtual string Read()
+    {
+        return "Чтение книги";
+    }
 }
