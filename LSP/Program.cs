@@ -4,21 +4,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Создаем экземпляр бумажной книги
-        IBook paperBook = new PaperBook();
-        paperBook.Title = "Война и мир";
-
-        // Создаем экземпляр аудиокниги
-        IBook audiobook = new Audiobook();
-        audiobook.Title = "Алиса в Стране Чудес";
-        //audiobook.
-
         Reader reader = new Reader();
+        
+        // Создаём экземпляр аудиокниги
+        IReadable audioBook = new AudioBook();
 
-        // Передаем бумажную книгу читателю
-        reader.ReadBook(paperBook);
+        // Передаём экземпляр аудиокниги функции, ожидая чтения книги
+        
+				// замена объекта Book на AudioBook не ведёт к изменению ожидаемого поведения программы
+				reader.ReadBook(audioBook);
 
-        // Передаем аудиокнигу читателю
-        reader.ReadBook(audiobook); // Теперь корректно проигрывает аудиокнигу и выводит правильное название
+        Console.ReadLine();
     }
 }
