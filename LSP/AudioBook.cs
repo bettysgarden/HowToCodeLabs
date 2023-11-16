@@ -1,12 +1,10 @@
 namespace LSP;
 
-// Класс, представляющий аудиокнигу
-public class Audiobook : IBook
+// Класс для аудиокниги
+public class AudioBook : IReadable
 {
-    public string Title { get; set; }
-
-    public void Read()
+    public string Read()
     {
-        Console.WriteLine("Проигрывание аудиокниги: " + Title);
+        return "Проигрывание аудиокниги";
     }
 }
