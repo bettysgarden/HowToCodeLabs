@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nrdAp2E1CQYEfXTyWpxk90d0DTGWbZ0a4U160inuGZyxchSm4sVJVLIleCQUApg2HERnIxbJLIDZgtfMGT6n/w==",
+  "dgSpecHash": "yfaMFiESQTC/dtMK8abBAFM8JTlMMZYLgWDU0x6QmbqZNDw6yaFUa9Y2j9dMIJysjnV304YypddnAFKzUkePsA==",
   "success": true,
-  "projectFilePath": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/OCP/OCP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/speakland/RiderProjects/HowToCodeLabs/OCP/OCP.csproj",
+  "expectedPackageFiles": [
+    "/Users/speakland/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/speakland/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/speakland/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
