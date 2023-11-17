@@ -1,0 +1,15 @@
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/bin/Debug/net6.0/Problem_ISP
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/bin/Debug/net6.0/Problem_ISP.deps.json
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/bin/Debug/net6.0/Problem_ISP.runtimeconfig.json
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/bin/Debug/net6.0/Problem_ISP.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/bin/Debug/net6.0/Problem_ISP.pdb
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.csproj.AssemblyReference.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.AssemblyInfoInputs.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.AssemblyInfo.cs
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.csproj.CoreCompileInputs.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/refint/Problem_ISP.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.pdb
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/Problem_ISP.genruntimeconfig.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/obj/Debug/net6.0/ref/Problem_ISP.dll

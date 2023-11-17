@@ -1,4 +1,5 @@
-class Library : IBook
+
+public class Library : IBook
 {
     public void CheckOut()
     {
