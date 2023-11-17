@@ -1,0 +1,15 @@
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/bin/Debug/net6.0/Problema_OCP
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/bin/Debug/net6.0/Problema_OCP.deps.json
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/bin/Debug/net6.0/Problema_OCP.runtimeconfig.json
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/bin/Debug/net6.0/Problema_OCP.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/bin/Debug/net6.0/Problema_OCP.pdb
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.csproj.AssemblyReference.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.AssemblyInfoInputs.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.AssemblyInfo.cs
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.csproj.CoreCompileInputs.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/refint/Problema_OCP.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.pdb
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/Problema_OCP.genruntimeconfig.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Problema_OCP/obj/Debug/net6.0/ref/Problema_OCP.dll
