@@ -1,0 +1,15 @@
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/bin/Debug/net6.0/Right_OCP1
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/bin/Debug/net6.0/Right_OCP1.deps.json
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/bin/Debug/net6.0/Right_OCP1.runtimeconfig.json
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/bin/Debug/net6.0/Right_OCP1.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/bin/Debug/net6.0/Right_OCP1.pdb
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.csproj.AssemblyReference.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.AssemblyInfoInputs.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.AssemblyInfo.cs
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.csproj.CoreCompileInputs.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/refint/Right_OCP1.dll
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.pdb
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/Right_OCP1.genruntimeconfig.cache
+/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/obj/Debug/net6.0/ref/Right_OCP1.dll
