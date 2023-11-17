@@ -1,7 +1,7 @@
-namespace Problem_LSP;
+namespace LSP;
 
 // Базовый класс для книги в библиотеке
-public class Book
+public class Book : IReadable
 {
     public virtual string Read()
     {

@@ -1,10 +1,10 @@
 namespace Problem_LSP;
 
-// Класс, представляющий аудиокнигу
-public class Audiobook : Book
+// Класс для аудиокниги
+public class AudioBook : Book
 {
-    public override void Read()
+    public override string Read()
     {
-        Console.WriteLine("Проигрывание аудиокниги: " + Title);
+        return "Проигрывание аудиокниги";
     }
 }
