@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "505mJC4wGgt5yECOgxDs9P7S8aEQmBI+INENknxCmJoysbj/cuQ6q7pdVbZn6CCVZs7ZVRsxkfi5DSxAiEDQ9w==",
+  "dgSpecHash": "UhWuZ7aC/a+sUQmf5Mwe2b/Anon1vpdSu5J69hP+RX0pd5fwOJHbI4Uuz4dB5x1uNtE2AbDOsdYTMIK8zX3GQg==",
   "success": true,
-  "projectFilePath": "/Users/speakland/RiderProjects/HowToCodeLabs/HardcodingRight/HardcodingRight.csproj",
-  "expectedPackageFiles": [
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\HardcodingRight\\HardcodingRight.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

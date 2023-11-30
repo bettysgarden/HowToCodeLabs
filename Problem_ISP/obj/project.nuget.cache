@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BtDzzDn7iQUP/86fwBk1gllzZr6qyqaaZlAO50/ODx0ZSPDJ0fMT5qZfstE6ES3qCh/cuiDwsJFbFGRZqBYDEA==",
+  "dgSpecHash": "o11yajZaP23Vww5NjaAa2elVAVwvGGgR58Vp6TmAjPZGAiVpF405sUyrEY5cqNtW0fyC3FsSLtnqsFaGzgkzZg==",
   "success": true,
-  "projectFilePath": "/Users/speakland/RiderProjects/HowToCodeLabs/Problem_ISP/Problem_ISP.csproj",
-  "expectedPackageFiles": [
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\Problem_ISP\\Problem_ISP.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

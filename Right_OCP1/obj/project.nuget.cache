@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZaFpoGDIzjqbgNYHb7TWrG78lD+0jN2jjfQLdL3E+xravHCTdBPWgMI23MV/JTLoWjtYi7rapNAfV3eawKBd5Q==",
+  "dgSpecHash": "/W9Sm+0UnuMPk9F1rEmyjUxW29TZzKXJ3v7HySQMig8/a9GUc5ejRkm59bU4IYMQBAVvXZLY8ITODsRlZRIcyA==",
   "success": true,
-  "projectFilePath": "/Users/speakland/RiderProjects/HowToCodeLabs/Right_OCP1/Right_OCP1.csproj",
-  "expectedPackageFiles": [
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\Right_OCP1\\Right_OCP1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

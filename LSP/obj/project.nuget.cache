@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1dG7jeMcI7MFhJB6L+KRhWYE9SsZmNEZD3tHjzJfOMNeCBufyV1lqr32FN0f5nQCcc/1a6VoWu5wLGN8qrnCNQ==",
+  "dgSpecHash": "TWhTgtn2EBUJ64UYG7PsmTbCPNX6MKwl/rBVas07gvJTzuI0FPh4/RGV+RPgc1JkCv1AXHTMNLrzQCn4ZwP8hw==",
   "success": true,
-  "projectFilePath": "/Users/speakland/RiderProjects/HowToCodeLabs/LSP/LSP.csproj",
-  "expectedPackageFiles": [
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\LSP\\LSP.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

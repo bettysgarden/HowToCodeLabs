@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WwCUW2jqGbvcpMZbZ8XatLEfb6+JvquVmXOCuHJwY3bWmggASAQZPp1W1buyHyWx8o/EWjra+eRX7mEan32i1A==",
+  "dgSpecHash": "esYJZF4+TWCY/lHAzeWsnPgLjXQuerNyClmKeVOMDakA2GxF2frp182lZhwI6mL8acBm7WeaJsBcxhnhpv3HYw==",
   "success": true,
-  "projectFilePath": "/Users/speakland/RiderProjects/HowToCodeLabs/Right_SRP/Right_SRP.csproj",
-  "expectedPackageFiles": [
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/speakland/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\Right_SRP\\Right_SRP.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
