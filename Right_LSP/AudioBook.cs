@@ -3,8 +3,8 @@ namespace LSP;
 // Класс для аудиокниги
 public class AudioBook : IReadable
 {
-    public string Read()
+    public void Read()
     {
-        return "Проигрывание аудиокниги";
+        Console.WriteLine("Проигрывание аудиокниги");
     }
 }

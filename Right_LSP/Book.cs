@@ -3,8 +3,8 @@ namespace LSP;
 // Базовый класс для книги в библиотеке
 public class Book : IReadable
 {
-    public virtual string Read()
+    public virtual void Read()
     {
-        return "Чтение книги";
+        Console.WriteLine("Чтение книги");
     }
 }
