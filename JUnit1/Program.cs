@@ -1,7 +1,7 @@
 ﻿using Junit1;
 
-class Program
-{
+// class Program
+// {
     // static void Main(string[] args)
     // {
     //     LibraryCatalog catalog = new LibraryCatalog();
@@ -13,4 +13,4 @@ class Program
     //     // Выводим информацию о элементах в каталоге.
     //     catalog.PrintCatalog();
     // }
-}
+// }

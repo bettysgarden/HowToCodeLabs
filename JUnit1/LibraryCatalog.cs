@@ -16,6 +16,11 @@ public class LibraryCatalog
         items.Remove(item);
     }
 
+    public List<ILibraryItem> GetItems()
+    {
+        return items;
+    }
+
     public void PrintCatalog()
     {
         Console.WriteLine("Library Catalog:");

@@ -1,18 +1,19 @@
-namespace Junit1;
-
-public class Book : ILibraryItem
+namespace Junit1
 {
-    public string Title { get; set; }
-    public string Author { get; set; }
-
-    public Book(string title, string author)
+    public class Book : ILibraryItem
     {
-        Title = title;
-        Author = author;
-    }
+        public string Title { get; set; }
+        public string Author { get; set; }
 
-    public void Display()
-    {
-        Console.WriteLine($"Title: {Title}, Author: {Author}");
+        public Book(string title, string author)
+        {
+            Title = title;
+            Author = author;
+        }
+
+        public void Display()
+        {
+            Console.WriteLine($"Title: {Title}, Author: {Author}" + Environment.NewLine); // Include Environment.NewLine
+        }
     }
 }

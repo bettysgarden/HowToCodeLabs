@@ -1,16 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "yUQVpyHCyyARuWfswT0R7IiP9pxni+W5+6zcFPI9rZ0/s929vmJLDphb9FqZQabT20uWphG9aY1RyuUcFfwSUg==",
+  "dgSpecHash": "wEMh8NIrpvztsmkU6Hh9A/CURvL8bPKw5kqaNaRlWB/rg31JoZMLHEA8txiKcF8+H0EUa0r6VD15rO6O6fp1Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\JUnit1\\JUnit1.csproj",
+  "projectFilePath": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/JUnit1/JUnit1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.9.0-preview-23577-04\\microsoft.codecoverage.17.9.0-preview-23577-04.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0-preview-23577-04\\microsoft.net.test.sdk.17.9.0-preview-23577-04.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0-preview-23577-04\\microsoft.testplatform.objectmodel.17.9.0-preview-23577-04.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0-preview-23577-04\\microsoft.testplatform.testhost.17.9.0-preview-23577-04.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "/Users/Elizaveta1/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "/Users/Elizaveta1/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "/Users/Elizaveta1/.nuget/packages/microsoft.testplatform.objectmodel/17.8.0/microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "/Users/Elizaveta1/.nuget/packages/microsoft.testplatform.testhost/17.8.0/microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "/Users/Elizaveta1/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/Elizaveta1/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
+    "/Users/Elizaveta1/.nuget/packages/nunit/4.0.1/nunit.4.0.1.nupkg.sha512",
+    "/Users/Elizaveta1/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
