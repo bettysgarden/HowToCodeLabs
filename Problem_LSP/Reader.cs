@@ -5,6 +5,6 @@ public class Reader
 {
     public void ReadBook(Book book)
     {
-        Console.WriteLine(book.Read());
+        book.Read();
     }
 }
