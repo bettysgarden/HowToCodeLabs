@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "5aOdjenzhj38wtz914ZgFePMKbqAHr+E0ShnHIJM6qI3vgD/PkbbnI0jysXpEAiSj3VG1W6QUulkNeoO4K3dHg==",
+  "dgSpecHash": "yUQVpyHCyyARuWfswT0R7IiP9pxni+W5+6zcFPI9rZ0/s929vmJLDphb9FqZQabT20uWphG9aY1RyuUcFfwSUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\JUnit1\\JUnit1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.9.0-preview-23577-04\\microsoft.codecoverage.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0-preview-23577-04\\microsoft.net.test.sdk.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0-preview-23577-04\\microsoft.testplatform.objectmodel.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0-preview-23577-04\\microsoft.testplatform.testhost.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
