@@ -1,71 +1,79 @@
 using Roght_ISP;
 
-namespace Tests;
-using System.Linq;
-
 [TestClass]
 public class UserManagerTest
 {
+    private UserManager userManager;
+
+    [TestInitialize]
+    public void TestInitialize()
+    {
+        userManager = new UserManager();
+    }
+
     [TestMethod]
-    // лист сущест
-    // email is not null
     public void TestAddUser_SuccessfulAddition()
     {
+        // Arrange
+        string email = "Pnku@example.com";
+        string password = "SecureP@sswo54rd";
 
-        UserManager userManager = new UserManager();
+        // Act
+        userManager.AddUser("John Doe", email, password);
 
-        userManager.AddUser("John Doe", "Pnku@example.com", "SecureP@sswo54rd");
-
-        Assert.IsTrue(userManager.Users.Any(user => user.Email == "Pnku@example.com"));
-
+        // Assert
+        Assert.IsTrue(userManager.Users.Any(user => user.Email == email));
     }
 
     [TestMethod]
     public void TestAddUser_DuplicateEmail()
     {
+        // Arrange
+        string existingEmail = "Mila@example.com";
+        string password = "SecureP@sswo54rd";
+        int initialCount = userManager.Users.Count;
 
-        UserManager userManager = new UserManager();
-        int count = userManager.Users.Count();
-
-        userManager.AddUser("Mila", "Mila@example.com", "SecureP@sswo54rd");
+        // Act
+        userManager.AddUser("Mila", existingEmail, password);
 
         // Assert
-        Assert.AreEqual(count, userManager.Users.Count); // Новый пользователь не добавлен
+        Assert.AreEqual(initialCount, userManager.Users.Count);
     }
 
     [TestMethod]
     public void TestAddUser_InvalidEmail()
     {
+        // Arrange
+        string invalidEmail = "invalid.email";
+        string password = "BobPass123";
+        int initialCount = userManager.Users.Count;
 
-        UserManager userManager = new UserManager();
-
-
-        userManager.AddUser("Bob Johnson", "invalid.email", "BobPass123");
-
+        // Act
+        userManager.AddUser("Bob Johnson", invalidEmail, password);
 
         // Assert
-        Assert.IsFalse(userManager.Users.Any(user => user.Email == "invalid.email"));
-        // Пользователь не добавлен из-за некорректного email
+        Assert.IsFalse(userManager.Users.Any(user => user.Email == invalidEmail));
     }
 
     [TestMethod]
     public void TestAddUser_InvalidPassword()
     {
+        // Arrange
+        string email = "eva@example.com";
+        string weakPassword = "weak";
+        int initialCount = userManager.Users.Count;
 
-        UserManager userManager = new UserManager();
-        int count = userManager.Users.Count();
-
-        userManager.AddUser("Eva Mugler", "eva@example.com", "weak");
+        // Act
+        userManager.AddUser("Eva Mugler", email, weakPassword);
 
         // Assert
-
-        Assert.AreEqual(count, userManager.Users.Count); // Пользователь не добавлен из-за некорректного пароля
+        Assert.AreEqual(initialCount, userManager.Users.Count);
     }
 
     [TestMethod]
     public void TestEmailIsNotNull()
     {
-        UserManager userManager = new UserManager();
+        // Arrange
         int initialUserCount = userManager.Users.Count;
 
         // Act
@@ -73,6 +81,5 @@ public class UserManagerTest
 
         // Assert
         Assert.AreEqual(initialUserCount, userManager.Users.Count);
-
     }
 }
