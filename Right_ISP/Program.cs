@@ -3,7 +3,7 @@ class Program
     static void Main(string[] args)
     {
         Library book = new Library();
-        User user = new User();
+        User user = new User("Liza", "Liza@gmailAQ.com", "SecureP@sswo54rd");
 
         user.ProcessBook(book); // Используется только ICheckInOut
         // user.ReserveBook(book); // Если нужно использовать резервирование, можно добавить соответствующий объект

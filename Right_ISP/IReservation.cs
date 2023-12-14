@@ -1,5 +1,6 @@
 // Интерфейс для управления резервированием книги
-interface IReservation
+
+public interface IReservation
 {
     void PlaceHold();
 }

@@ -1,5 +1,6 @@
 // Интерфейс для работы с книгами
-interface ICheckInOut
+
+public interface ICheckInOut
 {
     void CheckOut();
     void Return();
