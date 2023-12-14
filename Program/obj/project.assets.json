@@ -307,28 +307,6 @@
           "lib/netstandard2.0/NuGet.Frameworks.dll": {}
         }
       },
-      "NUnit/4.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/nunit.framework.dll": {
-            "related": ".legacy.xml;.xml"
-          },
-          "lib/net6.0/nunit.framework.legacy.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/nunit.framework.dll": {
-            "related": ".legacy.xml;.xml"
-          },
-          "lib/net6.0/nunit.framework.legacy.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "build/NUnit.props": {}
-        }
-      },
       "System.Reflection.Metadata/1.6.0": {
         "type": "package",
         "compile": {
@@ -646,32 +624,6 @@
         "nuget.frameworks.nuspec"
       ]
     },
-    "NUnit/4.0.1": {
-      "sha512": "jNTHZ01hJsDNPDSBycoHpavFZUBf9vRVQLCyuo78LRrrFj6Ol/CeqK+NIeTk5d8Eycjk59KseWb7X5Ge6z7CgQ==",
-      "type": "package",
-      "path": "nunit/4.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "CHANGES.md",
-        "LICENSE.txt",
-        "NOTICES.md",
-        "README.md",
-        "THIRD_PARTY_NOTICES.md",
-        "build/NUnit.props",
-        "icon.png",
-        "lib/net462/nunit.framework.dll",
-        "lib/net462/nunit.framework.legacy.dll",
-        "lib/net462/nunit.framework.legacy.xml",
-        "lib/net462/nunit.framework.xml",
-        "lib/net6.0/nunit.framework.dll",
-        "lib/net6.0/nunit.framework.legacy.dll",
-        "lib/net6.0/nunit.framework.legacy.xml",
-        "lib/net6.0/nunit.framework.xml",
-        "nunit.4.0.1.nupkg.sha512",
-        "nunit.nuspec"
-      ]
-    },
     "System.Reflection.Metadata/1.6.0": {
       "sha512": "COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
       "type": "package",
@@ -696,24 +648,23 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.NET.Test.Sdk >= 17.8.0",
-      "NUnit >= 4.0.1"
+      "Microsoft.NET.Test.Sdk >= 17.8.0"
     ]
   },
   "packageFolders": {
-    "/Users/Elizaveta1/.nuget/packages/": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Right_ISP/Right_ISP.csproj",
-      "projectName": "Right_ISP",
-      "projectPath": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Right_ISP/Right_ISP.csproj",
-      "packagesPath": "/Users/Elizaveta1/.nuget/packages/",
-      "outputPath": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/Right_ISP/obj/",
+      "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\Program\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Elizaveta1/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -740,10 +691,6 @@
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.8.0, )"
-          },
-          "NUnit": {
-            "target": "Package",
-            "version": "[4.0.1, )"
           }
         },
         "imports": [
@@ -762,7 +709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }

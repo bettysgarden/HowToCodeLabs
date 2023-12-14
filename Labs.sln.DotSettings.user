@@ -1,4 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba43ff74_002Dc8dd_002D4ce5_002Da73c_002De35b8a4073f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LibraryCatalogTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Project Location="/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/JUnit1" Presentation="&amp;lt;lab7_JUnit&amp;gt;\&amp;lt;JUnit1&amp;gt;" /&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba43ff74_002Dc8dd_002D4ce5_002Da73c_002De35b8a4073f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LibraryCatalogTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="\Users\Elizaveta1\RiderProject\Лабы\HardcodingProblematic\JUnit1" Presentation="&amp;lt;lab7_JUnit&amp;gt;\&amp;lt;JUnit1&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

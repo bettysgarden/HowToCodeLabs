@@ -1,19 +1,21 @@
 // Класс, использующий интерфейсы ICheckInOut и IReservation
 
 using System.Text.RegularExpressions;
+using Roght_ISP;
 
 public class User
 {
     public String Name { get; }
     public String Email { get; }
     public String Password { get; }
+
     public User(String name, String email, String password)
     {
         this.Name = name;
         this.Email = email;
         this.Password = password;
-
     }
+
     // Метод для проверки корректности email
     public bool isValidEmail()
     {
@@ -30,6 +32,7 @@ public class User
 
         return regex.IsMatch(Password);
     }
+
     public void ProcessBook(ICheckInOut book)
     {
         book.CheckOut();

@@ -1,12 +1,12 @@
-namespace Roght_ISP.Tests;
+using Roght_ISP;
 
-using NUnit.Framework;
+namespace Tests;
 using System.Linq;
 
-[TestFixture]
+[TestClass]
 public class UserManagerTest
 {
-    [Test]
+    [TestMethod]
     // лист сущест
     // email is not null
     public void TestAddUser_SuccessfulAddition()
@@ -20,7 +20,7 @@ public class UserManagerTest
 
     }
 
-    [Test]
+    [TestMethod]
     public void TestAddUser_DuplicateEmail()
     {
 
@@ -33,7 +33,7 @@ public class UserManagerTest
         Assert.AreEqual(count, userManager.Users.Count); // Новый пользователь не добавлен
     }
 
-    [Test]
+    [TestMethod]
     public void TestAddUser_InvalidEmail()
     {
 
@@ -48,7 +48,7 @@ public class UserManagerTest
         // Пользователь не добавлен из-за некорректного email
     }
 
-    [Test]
+    [TestMethod]
     public void TestAddUser_InvalidPassword()
     {
 
@@ -62,7 +62,7 @@ public class UserManagerTest
         Assert.AreEqual(count, userManager.Users.Count); // Пользователь не добавлен из-за некорректного пароля
     }
 
-    [Test]
+    [TestMethod]
     public void TestEmailIsNotNull()
     {
         UserManager userManager = new UserManager();

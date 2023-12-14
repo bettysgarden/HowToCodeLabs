@@ -1,5 +1,7 @@
 // Интерфейс для подсчета штрафов за просрочку
-interface IFine
+namespace Roght_ISP;
+
+public interface IFine
 {
     void CalculateFine();
 }

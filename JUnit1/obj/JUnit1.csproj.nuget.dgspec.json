@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/JUnit1/JUnit1.csproj": {}
+    "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\JUnit1\\JUnit1.csproj": {}
   },
   "projects": {
-    "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/JUnit1/JUnit1.csproj": {
+    "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\JUnit1\\JUnit1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/JUnit1/JUnit1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\JUnit1\\JUnit1.csproj",
         "projectName": "JUnit1",
-        "projectPath": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/JUnit1/JUnit1.csproj",
-        "packagesPath": "/Users/Elizaveta1/.nuget/packages/",
-        "outputPath": "/Users/Elizaveta1/RiderProject/Лабы/HardcodingProblematic/JUnit1/obj/",
+        "projectPath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\JUnit1\\JUnit1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\RiderProjects\\HowToCodeLabs\\JUnit1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Elizaveta1/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -42,9 +42,9 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
-            "NUnit": {
+            "Xunit.Microsoft.VisualStudio.TestTools.UnitTesting": {
               "target": "Package",
-              "version": "[4.0.1, )"
+              "version": "[1.0.0-beta-1011, )"
             }
           },
           "imports": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
         }
       }
     }

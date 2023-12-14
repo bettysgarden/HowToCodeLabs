@@ -1,5 +1,8 @@
 // Класс, реализующий интерфейс ICheckInOut
-class Library : ICheckInOut
+
+namespace Roght_ISP;
+
+public class Library : ICheckInOut
 {
     public void CheckOut()
     {
